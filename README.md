@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/bautistaramir0714/7a3f073e-54d6-421f-ac0a-51595209b731/0f645061-4192-44f1-8106-7771eb8c5647/_apis/work/boardbadge/af327a22-a6af-4d4d-9e75-51d503334512)](https://dev.azure.com/bautistaramir0714/7a3f073e-54d6-421f-ac0a-51595209b731/_boards/board/t/0f645061-4192-44f1-8106-7771eb8c5647/Microsoft.RequirementCategory)
 ### Hi there 👋
 
 <!--
